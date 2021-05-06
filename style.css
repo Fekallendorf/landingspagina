@@ -1,3 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
-    background-color: hotpink;
+    font-family: montserrat, sans-serif;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 100px;
+    margin-bottom: 30px;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.product {
+    display: flex;
+    flex-direction: row;
+    margin-top: 150px;
+}
+
+.kleurkeuze {
+    height: 300px;
+    margin-left: 100px;
+    margin-right: 200px;
+    margin-top: 100px;
+}
+
+.paars {
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.kleuren {
+    display: flex;
+    align-items: flex-start;
+    font-size: 30px;
+}
+
+.paars, .rood, .blauw, .wit, .groen {
+    margin-top: 20px;
 }
