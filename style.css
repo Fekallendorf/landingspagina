@@ -39,6 +39,7 @@ div {
     display: flex;
     flex-direction: row;
     margin-top: 150px;
+    width: 100%;
 }
 
 .kleurkeuze {
@@ -61,4 +62,22 @@ div {
 
 .paars, .rood, .blauw, .wit, .groen {
     margin-top: 20px;
+}
+
+.weetjes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.weetjes>p {
+    width: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.imgweetjes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
