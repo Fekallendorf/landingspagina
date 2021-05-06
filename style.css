@@ -38,7 +38,8 @@ div {
 .product {
     display: flex;
     flex-direction: row;
-    margin-top: 150px;
+    margin-top: 250px;
+    width: 100%;
 }
 
 .kleurkeuze {
@@ -61,4 +62,29 @@ div {
 
 .paars, .rood, .blauw, .wit, .groen {
     margin-top: 20px;
+}
+
+.weetjes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 250px;
+}
+
+.weetjes>p {
+    font-size: 20px;
+    font-style: italic;
+    width: 300px;
+}
+
+.imgweetjes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.imgweetjes>img {
+    width: 300px;
+    height: 175px;
+    margin-bottom: 50px;
 }
