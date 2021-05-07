@@ -47,6 +47,9 @@ Een scherm heeft naast 1 primaire actie ook vaak nog secundaire acties. Je moet 
 
 In ons ontwerp zie je dit minder. Ons ontwerp heeft namellijk niet veel acties. Het doel van de site is mensen informeren. We hebben er hierom voor gekozen de bestel knop aan het einde van de site te zetten.
 
+<img width="1344" alt="Schermafbeelding 2021-05-07 om 12 40 40" src="https://user-images.githubusercontent.com/77994631/117438150-7409f500-af31-11eb-8eda-e110fc4cc48d.png">
+
+
 </br>
 
 ### 08 - Provide a natural next step
@@ -62,6 +65,9 @@ In ons ontwerp hebben dit gedaan door dat er maar een route is over onze site; j
 Visuele hierarchie geeft gebruikers een route over jouw pagina. Grote en dikgedrukte woorden worden eerder gezien dan de rest van de pagina.
 
 Op onze site hebben we de belangrijke kopjes dikgedrukt en groter gemaakt. Ook is de bestelknop extra duidelijk.
+
+<img width="1741" alt="Schermafbeelding 2021-05-07 om 12 41 57" src="https://user-images.githubusercontent.com/77994631/117438276-a3206680-af31-11eb-9206-621f0d285620.png">
+
 
 </br>
 
