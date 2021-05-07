@@ -26,3 +26,23 @@ Zoals eerder gezegd hebben wij een pagina gemaakt voor de iphone 12. Deze pagina
 
 ---
 
+## :memo: De UI Prinicples
+
+In ons eindproduct zijn een aantal UI principes verwerkt.
+
+### 06 - One primary action per screen
+
+### 07 - Keep secondary actions secondary
+
+### 08 - Provide a natural next step
+
+### 11 - Strong visual hierarchies work best
+
+
+</br>
+
+---
+
+## :books: Bronnen
+
+- https://www.apple.com/iphone-12/ (foto's) geraadpleegd op 6 mei 2021 
