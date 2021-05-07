@@ -36,6 +36,7 @@ Op elk scherm zou maar 1 opdracht voor de gebruiker meoten hebben. Schermen met 
 
 In ons ontwerp hebben we dit toegpast door ervoor te zorgen dat je ongeveer per 'scroll' een onderdeel ziet.
 
+<img width="1759" alt="Schermafbeelding 2021-05-07 om 12 32 06" src="https://user-images.githubusercontent.com/77994631/117437873-1a092f80-af31-11eb-9733-d5f28c661ce3.png">
 
 
 </br>
@@ -60,7 +61,7 @@ In ons ontwerp hebben dit gedaan door dat er maar een route is over onze site; j
 
 Visuele hierarchie geeft gebruikers een route over jouw pagina. Grote en dikgedrukte woorden worden eerder gezien dan de rest van de pagina.
 
-Op onze site hebben we de belangrijke kopjes dikgerdukt en groter gemaakt. Ook is de bestelknop extra duidelijk.
+Op onze site hebben we de belangrijke kopjes dikgedrukt en groter gemaakt. Ook is de bestelknop extra duidelijk.
 
 </br>
 
