@@ -88,3 +88,37 @@ div {
     height: 175px;
     margin-bottom: 50px;
 }
+
+a {
+    background-color: lightblue;
+    text-decoration: none;
+    color: black;
+    border-color: cornflowerblue;
+    font-size: 100px;
+    padding: 20px 20px;
+    border-style: solid;
+    border-color: cornflowerblue;
+    border-width: 10px;
+    margin: 150px;
+    border-radius: 25px;
+}
+
+a.visited {
+    text-decoration: none; 
+}
+
+a:active {
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: none;
+    background-color: rgb(177, 246, 255);
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
